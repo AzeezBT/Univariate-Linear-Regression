@@ -45,9 +45,10 @@ plt.show()
 
 ```
 ## Output
-![Output](./images/WhatsApp%20Image%202023-01-24%20at%209.36.34%20PM.jpeg)
-![Output](./images/WhatsApp%20Image%202023-01-24%20at%209.36.34%20PM(1).jpeg)
-![Output](./images/WhatsApp%20Image%202023-01-24%20at%209.36.35%20PM.jpeg)
+![image](https://github.com/AzeezBT/Univariate-Linear-Regression/assets/150319523/b34f829e-283e-495f-a7b7-6fb8b54540ce)
+![image](https://github.com/AzeezBT/Univariate-Linear-Regression/assets/150319523/b61a0ce8-a4e9-4e69-84b3-7ffe8b42ad56)
+![image](https://github.com/AzeezBT/Univariate-Linear-Regression/assets/150319523/67e96a00-b842-4438-a7e8-9db80e2ce59d)
+
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
